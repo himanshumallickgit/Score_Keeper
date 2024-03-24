@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../Flexbox"
+		},
+		{
+			"path": "../Pricing Panel Project"
+		},
+		{
+			"path": "C:/Users/sudha/Desktop/PricingPanel_CODE/PricingPanel/PriceTable/icons"
+		},
+		{
+			"path": "C:/Users/sudha/Desktop/PricingPanel_CODE/PricingPanel/PriceTableStarter/icons"
+		},
+		{
+			"path": "../Bootstrap"
+		},
+		{
+			"path": "../toDoList Project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Score Keeper"
+	}
+}
