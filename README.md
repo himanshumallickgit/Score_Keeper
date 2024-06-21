@@ -30,7 +30,7 @@ Once a player reaches the maximum score, the game stops.
 Starting a New Game
 Press the "Reset" button to reset the scores and start a new game.
 
-#Deployed Link
+# Deployed Link
 https://himanshumallickgit.github.io/Score_Keeper/
 
 # Made by
